@@ -9,6 +9,8 @@ Run the "Run File.bat" to launch the jar file in Windows terminal.
 
 If MacOS or Linux is being used, .jar file will need to be executed from the terminal. 
 
+Source jave files will be included in the submission of the assignment.
+
 # Example
 
 ![Example of code running](https://i.imgur.com/qOBzYpp.png)
