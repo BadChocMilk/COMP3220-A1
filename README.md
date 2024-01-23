@@ -11,4 +11,4 @@ If MacOS or Linux is being used, .jar file will need to be executed from the ter
 
 # Example
 
-![Example of code running](https://imgur.com/a/6SJp2hy)
+![Example of code running](https://i.imgur.com/qOBzYpp.png)
